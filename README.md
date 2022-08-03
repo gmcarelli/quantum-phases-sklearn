@@ -1,2 +1,3 @@
-# quantum-phases-sklearn
-Quantum Phases Machine Learning
+# Quantum Phases Machine Learning
+
+Using sklearn, exploring its differents built-in functions.
